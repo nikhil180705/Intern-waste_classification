@@ -3,5 +3,6 @@ This project involves developing a Convolutional Neural Network (CNN) model to c
 
 
 📂 Dataset
+
 The dataset used in this project contains labeled images of various waste materials, enabling supervised learning for waste classification.
 kaggle_link of the dataset:https://www.kaggle.com/datasets/techsash/waste-classification-data
